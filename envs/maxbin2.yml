@@ -1,0 +1,6 @@
+name: maxbin2
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - maxbin2

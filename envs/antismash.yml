@@ -1,0 +1,7 @@
+name: antismash7
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - antismash==7.1.0
+  - bcbio-gff==0.6.9

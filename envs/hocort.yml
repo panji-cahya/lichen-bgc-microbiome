@@ -1,0 +1,6 @@
+name: hocort
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - hocort

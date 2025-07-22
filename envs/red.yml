@@ -1,0 +1,6 @@
+name: red
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - red

@@ -1,0 +1,6 @@
+name: dastool
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - das_tool

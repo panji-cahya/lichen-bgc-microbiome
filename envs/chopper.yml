@@ -1,0 +1,7 @@
+name: nanopack
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - nanopack
+  - chopper

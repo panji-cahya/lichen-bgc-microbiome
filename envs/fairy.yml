@@ -1,0 +1,6 @@
+name: fairy
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - fairy

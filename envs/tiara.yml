@@ -1,0 +1,6 @@
+name: tiara
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - tiara
